@@ -608,7 +608,6 @@
 			children = (
 				D87784CD1FF4CD61005DBC44 /* libs */,
 				D87784721FF37779005DBC44 /* pb */,
-				D877846A1FF36ACB005DBC44 /* logic */,
 				46880B8419C43A87006E1F66 /* AppDelegate.cpp */,
 				46880B8519C43A87006E1F66 /* AppDelegate.h */,
 				46880B8619C43A87006E1F66 /* HelloWorldScene.cpp */,
@@ -664,13 +663,6 @@
 			name = Icons;
 			path = ios;
 			sourceTree = SOURCE_ROOT;
-		};
-		D877846A1FF36ACB005DBC44 /* logic */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = logic;
-			sourceTree = "<group>";
 		};
 		D87784721FF37779005DBC44 /* pb */ = {
 			isa = PBXGroup;
